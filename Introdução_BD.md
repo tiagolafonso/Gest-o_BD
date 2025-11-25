@@ -2,8 +2,10 @@
 Tiago Afonso
 2025-11-25
 
-<img src="Introdução_BD_files/figure-markdown_strick/descarregar.png"
-data-fig-align="center" />
+<img
+src="Introdução_BD_files\figure-markdown_strict\descarregar.png"
+style="width:6.02in;height:7.01in" />
+
 
 # Objetivos
 
@@ -1227,6 +1229,8 @@ vende a Clientes:
 
     - Tabela Detalhes_Venda (ID_Venda, ID_Produto, Quantidade).
 
-<img src="figure-markdown_strick/Logotipo.png"
-data-fig-align="center" />
+<img
+src="Introdução_BD_files\figure-markdown_strict\Logotipo.png"
+style="width:6.02in;height:7.01in" />
+
 
