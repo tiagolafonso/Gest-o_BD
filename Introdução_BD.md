@@ -2,7 +2,7 @@
 Tiago Afonso
 2025-11-25
 
-<img src="figure-markdown_strick/descarregar.png"
+<img src="Introdução_BD_files/figure-markdown_strick/descarregar.png"
 data-fig-align="center" />
 
 # Objetivos
@@ -1229,3 +1229,4 @@ vende a Clientes:
 
 <img src="figure-markdown_strick/Logotipo.png"
 data-fig-align="center" />
+
