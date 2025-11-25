@@ -1231,7 +1231,8 @@ vende a Clientes:
 
 <img
 src="Introdução_BD_files\figure-markdown_strict\Logotipo.png"
-style="width:6.02in;height:7.01in" />
+/>
+
 
 
 
