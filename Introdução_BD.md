@@ -561,24 +561,20 @@ Exemplo:
     identificar um indivíduo, como nome, endereço, número de telefone,
     e-mail, etc.
 
--   
 
 -   **Dados Comerciais** - Informações relacionadas com as operações
     comerciais de uma empresa, como vendas, compras, inventário,
     clientes, fornecedores, etc.
 
--   
 
 -   **Dados Financeiros** - Informações relacionadas com as finanças de
     uma empresa, como receitas, despesas, lucros, perdas, balanços, etc.
 
--   
 
 -   **Dados Operacionais** - Informações relacionadas com as operações
     diárias de uma empresa, como produção, logística, recursos humanos,
     etc.
 
--   
 
 -   **Dados de Marketing** - Informações relacionadas com as atividades
     de marketing de uma empresa, como campanhas publicitárias, pesquisas
@@ -1232,6 +1228,7 @@ vende a Clientes:
 <img
 src="Introdução_BD_files\figure-markdown_strict\Logotipo.png"
 />
+
 
 
 
